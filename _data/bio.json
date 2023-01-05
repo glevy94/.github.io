@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "name": "Grayson Levy",
+    "label": "Student",
+    "picture": "https://glevy94.github.io/img/github1.jpg",
+    "email": "glevy4@hawaii.edu",
+    "phone": "(440)360-9696",
+    "website": "https://glevy94.github.io",
+    "summary": "Currently pursuing a dual B.S./M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024 with my B.S. and Spring 2025 with my M.S..",
+    "location": {
+      "address": "",
+      "postalCode": "96701",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "glevy94",
+        "url": "https://github.com/glevy94"
+      },
+      {
+        "network": "linkedin",
+        "username": "Grayson Levy",
+        "url": "https://www.linkedin.com/in/graysonlevy/"
+      }
+    ]
+  },
+  "interests": [
+
+    {
+      "name": "Data Science",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "R",
+        "HTML",
+        "MySQL",
+        "Python"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Git/GitHub",
+        "Jgrasp",
+        "R-Markdown",
+        "IntelliJ IDEA",
+        "Anaconda",
+        "Jupyter Notebook"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S./M.S.",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+      "courses": [
+        "ICS 111 (Java)",
+        "ICS 211 (Java)",
+        "ICS 212 (C/C++)",
+        "ICS 311 (Algorithms)",
+        "ICS 314 (Javascript)",
+        "ICS 321 (Databases)",
+        "ICS 422 (Network Science)",
+        "ICS 235 (Machine Learning & Python)"
+      ]
+    }
+  ],
+   "work": [
+    {
+      "company": "Morton's Steak House",
+      "position": "Server",
+      "website": "",
+      "startDate": "2021-06-01",
+      "endDate": "Present",
+      "summary": "Delivering excellent customer service and creating a pleasant dining experience in a fast-paced setting."
+    },
+   {
+     "company": "Arancino Di Mare",
+     "position": "Server",
+     "website": "",
+     "startDate": "2013-06-01",
+     "endDate": "2021-06-01",
+     "summary": "Demonstrated growth in the fast-paced service industry in Hawaii's tourism center, transitioning from hosting to serving over my tenure."
+   }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
