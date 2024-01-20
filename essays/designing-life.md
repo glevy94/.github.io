@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: Layouts to Life
 # All dates must be YYYY-MM-DD format!
 date: 2022-04-28

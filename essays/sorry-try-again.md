@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: Sorry, try again
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-26

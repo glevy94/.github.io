@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: My Personal Assistant
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-10

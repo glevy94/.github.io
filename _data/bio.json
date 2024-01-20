@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://glevy94.github.io/img/github1.jpg",
     "email": "glevy4@hawaii.edu",
-    "phone": "(440)360-9696",
+    "phone": "(440) 360-9696",
     "website": "https://glevy94.github.io",
     "summary": "Currently pursuing a dual B.S./M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024 with my B.S. and Spring 2025 with my M.S..",
     "location": {
@@ -43,6 +43,11 @@
       "name": "Machine Learning",
       "keywords": [
       ]
+    },
+    {
+      "name": "LLM's",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -50,27 +55,31 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "Python",
+        "Pydantic",
+        "Pandas",
+        "Pytorch",
+        "Scikit-learn",
         "Javascript",
+        "Java",
+        "C/C++",
         "R",
-        "HTML",
-        "MySQL",
-        "Python"
+        "MySQL"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Anaconda",
+        "Jupyter Notebook",
+        "DataBricks",
         "MacOS",
         "Git/GitHub",
         "Jgrasp",
         "R-Markdown",
-        "IntelliJ IDEA",
-        "Anaconda",
-        "Jupyter Notebook"
+        "IntelliJ IDEA"
+
       ]
     }
   ],
@@ -78,18 +87,33 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2025)",
-      "studyType": "B.S./M.S.",
-      "startDate": "2020-09-01",
+      "studyType": "M.S.",
+      "startDate": "2023-09-01",
       "endDate": "Present",
       "courses": [
-        "ICS 111 (Java)",
-        "ICS 211 (Java)",
+        "ICS 635 (Machine Learning)",
+        "ICS 664 (Human-Computer Interaction)"
+
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science - Data Science(expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2020-09-01",
+      "endDate": "2024-06-01",
+      "courses": [
+        "ICS 111/211 (Java)",
         "ICS 212 (C/C++)",
         "ICS 311 (Algorithms)",
         "ICS 314 (Javascript)",
         "ICS 321 (Databases)",
         "ICS 422 (Network Science)",
-        "ICS 235 (Machine Learning & Python)"
+        "ICS 235/435 (Machine Learning & Python)",
+        "ICS 434 (Data Science Fundamentals)",
+        "ICS 469 (Cognitive Science)",
+        "ICS 484 (Data Visualization)",
+        "ICS 438 (Big Data Analytics)"
       ]
     }
   ],
