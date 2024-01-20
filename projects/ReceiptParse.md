@@ -30,7 +30,7 @@ summary: Four member language processing project to convert OCR text from receip
 
 </div>
 
-You can learn more at the [CanSat Competition website](https://www.cansatcompetition.com).
+You can learn more at the [GitHub Repository](https://github.com/RecieptsParse/OCR_TO_JSON).
 
 
 
